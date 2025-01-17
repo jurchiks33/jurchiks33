@@ -46,6 +46,6 @@
 
 ### 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurchiks33&layout=compact)](https://github.com/jurchiks33)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurchiks33&layout=compact&theme=radical)](https://github.com/jurchiks33)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jurchiks33&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jurchiks33&show_icons=true&theme=radical&count_private=true)
