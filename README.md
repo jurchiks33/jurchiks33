@@ -1,23 +1,12 @@
 <pre align="center">
-                                                                                                                                                                                             
-          JJJJJJJJJJJ                                    iiii                           SSSSSSSSSSSSSSS lllllll   iiii                                                                       
-          J:::::::::J                                   i::::i                        SS:::::::::::::::Sl:::::l  i::::i                                                                      
-          J:::::::::J                                    iiii                        S:::::SSSSSS::::::Sl:::::l   iiii                                                                       
-          JJ:::::::JJ                                                                S:::::S     SSSSSSSl:::::l                                                                              
-            J:::::Juuuuuu    uuuuuu rrrrr   rrrrrrrrr  iiiiiii     ssssssssss        S:::::S             l::::l iiiiiii     ssssssssss     aaaaaaaaaaaaa  nnnn  nnnnnnnn        ssssssssss   
-            J:::::Ju::::u    u::::u r::::rrr:::::::::r i:::::i   ss::::::::::s       S:::::S             l::::l i:::::i   ss::::::::::s    a::::::::::::a n:::nn::::::::nn    ss::::::::::s  
-            J:::::Ju::::u    u::::u r:::::::::::::::::r i::::i ss:::::::::::::s       S::::SSSS          l::::l  i::::i ss:::::::::::::s   aaaaaaaaa:::::an::::::::::::::nn ss:::::::::::::s 
-            J:::::ju::::u    u::::u rr::::::rrrrr::::::ri::::i s::::::ssss:::::s       SS::::::SSSSS     l::::l  i::::i s::::::ssss:::::s           a::::ann:::::::::::::::ns::::::ssss:::::s
-            J:::::Ju::::u    u::::u  r:::::r     r:::::ri::::i  s:::::s  ssssss          SSS::::::::SS   l::::l  i::::i  s:::::s  ssssss     aaaaaaa:::::a  n:::::nnnn:::::n s:::::s  ssssss 
-JJJJJJJ     J:::::Ju::::u    u::::u  r:::::r     rrrrrrri::::i    s::::::s                  SSSSSS::::S  l::::l  i::::i    s::::::s        aa::::::::::::a  n::::n    n::::n   s::::::s      
-J:::::J     J:::::Ju::::u    u::::u  r:::::r            i::::i       s::::::s                    S:::::S l::::l  i::::i       s::::::s    a::::aaaa::::::a  n::::n    n::::n      s::::::s   
-J::::::J   J::::::Ju:::::uuuu:::::u  r:::::r            i::::i ssssss   s:::::s                  S:::::S l::::l  i::::i ssssss   s:::::s a::::a    a:::::a  n::::n    n::::nssssss   s:::::s 
-J:::::::JJJ:::::::Ju:::::::::::::::uur:::::r           i::::::is:::::ssss::::::s     SSSSSSS     S:::::Sl::::::li::::::is:::::ssss::::::sa::::a    a:::::a  n::::n    n::::ns:::::ssss::::::s
- JJ:::::::::::::JJ  u:::::::::::::::ur:::::r           i::::::is::::::::::::::s      S::::::SSSSSS:::::Sl::::::li::::::is::::::::::::::s a:::::aaaa::::::a  n::::n    n::::ns::::::::::::::s 
-   JJ:::::::::JJ     uu::::::::uu:::ur:::::r           i::::::i s:::::::::::ss       S:::::::::::::::SS l::::::li::::::i s:::::::::::ss   a::::::::::aa:::a n::::n    n::::n s:::::::::::ss  
-     JJJJJJJJJ         uuuuuuuu  uuuurrrrrrr           iiiiiiii  sssssssssss          SSSSSSSSSSSSSSS   lllllllliiiiiiii  sssssssssss      aaaaaaaaaa  aaaa nnnnnn    nnnnnn  sssssssssss    
-                                                                                                                                                                                             
+      _                     _                       ___      _       _                                    
+   _ | |  _  _      _ _    (_)     ___      o O O  / __|    | |     (_)     ___    __ _    _ _      ___   
+  | || | | +| |    | '_|   | |    (_-<     o       \__ \    | |     | |    (_-<   / _` |  | ' \    (_-<   
+  _\__/   \_,_|   _|_|_   _|_|_   /__/_   TS__[O]  |___/   _|_|_   _|_|_   /__/_  \__,_|  |_||_|   /__/_  
+_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| 
+"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
 </pre>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/images/snowflakes.gif" alt="Snowing Effect" width="50%" />
