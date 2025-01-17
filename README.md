@@ -5,8 +5,6 @@
 
 ---
 
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -41,5 +39,3 @@
 ### 📊 GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurchiks33&layout=compact&theme=radical)](https://github.com/jurchiks33)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jurchiks33&show_icons=true&theme=radical&count_private=true)
