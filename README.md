@@ -1,9 +1,14 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color: purple; font-weight: bold;">Juris Slisans</span>
-  <br>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/images/snowflakes.gif" alt="Snow Effect" width="50" height="50">
+  <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #8A2BE2; font-size: 48px; font-weight: bold;">
+    Juris Slisans
+  </span>
 </h1>
-<h3 align="center">🌟 A Full Stack Developer from Norway, building the digital world, one line of code at a time. 🌟</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/images/snowflakes.gif" alt="Snowing Effect" width="50%" />
+</p>
+
+<h3 align="center">A Full Stack Developer from Norway, building the digital world, one line of code at a time.</h3>
 
 ---
 
@@ -45,21 +50,9 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-    <a href="https://github.com/jurchiks33">
-        <img src="https://github-readme-stats.vercel.app/api?username=jurchiks33&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="45%">
-    </a>
-    <a href="https://github.com/jurchiks33">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurchiks33&layout=compact&theme=radical" alt="Top Languages" width="45%">
-    </a>
-</p>
-
----
-
 ### 🌍 Let's Connect:
 <p align="center">
-    <a href="www.linkedin.com/in/juris-slisans-b2227215a" target="_blank">
+    <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
 </p>
