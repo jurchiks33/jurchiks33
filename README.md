@@ -51,3 +51,9 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""
         <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" width="50" height="50" />
     </a>
 </p>
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jurchiks33&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurchiks33&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
