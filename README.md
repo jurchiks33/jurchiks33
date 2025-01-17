@@ -54,6 +54,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jurchiks33&theme=radical)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurchiks33&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurchiks33&theme=radical" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurchiks33&layout=compact&theme=radical" alt="Most Used Languages" width="45%" />
+</p>
