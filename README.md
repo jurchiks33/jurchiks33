@@ -60,19 +60,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: stretch;">
-  <img src="https://github-profile-trophy.vercel.app/?username=jurchiks33&theme=radical&column=3" alt="GitHub Trophy" width="45%" />
-  <div style="display: flex; flex-direction: column;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurchiks33&theme=radical" alt="GitHub Streak" width="100%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurchiks33&layout=compact&theme=radical" alt="Most Used Languages" width="100%" />
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurchiks33&theme=radical" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurchiks33&layout=compact&theme=radical" alt="Most Used Languages" width="45%" />
 </div>
-
----
-
-### 🔥 GitHub Contributions Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jurchiks33&theme=radical" alt="GitHub Activity Graph" width="90%"/>
-</p>
-
 
