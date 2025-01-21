@@ -60,7 +60,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: stretch;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurchiks33&theme=radical" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurchiks33&theme=radical&cache=${new Date().getTime()}" alt="GitHub Streak" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurchiks33&layout=compact&theme=radical" alt="Most Used Languages" width="45%" />
 </div>
 
