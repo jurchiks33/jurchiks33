@@ -7,6 +7,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
 </pre>
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/images/snowflakes.gif" alt="Snowing Effect" width="50%" />
 </p>
@@ -55,15 +56,13 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""
     </a>
 </p>
 
+
 ## 📊 GitHub Stats
 
-<p align="left">
+<div style="display: flex; justify-content: center; align-items: stretch;">
   <img src="https://github-profile-trophy.vercel.app/?username=jurchiks33&theme=radical&column=3" alt="GitHub Trophy" width="45%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurchiks33&layout=compact&theme=radical" alt="Most Used Languages" width="45%" />
-</p>
+</div>
 
 ---
 
@@ -73,11 +72,4 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jurchiks33&theme=radical" alt="GitHub Activity Graph" width="90%"/>
 </p>
 
----
-
-### 🏆 GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/jurchiks33?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.details=percentage" alt="GitHub Metrics" width="90%" />
-</p>
 
