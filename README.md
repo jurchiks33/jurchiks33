@@ -7,6 +7,11 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
 </pre>
 
+<p align="center">
+  <a href="https://user-badge.committers.top/norway_private/jurchiks33">
+    <img src="https://user-badge.committers.top/norway_private/jurchiks33.svg" alt="Committers Top Badge"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/images/snowflakes.gif" alt="Snowing Effect" width="50%" />
